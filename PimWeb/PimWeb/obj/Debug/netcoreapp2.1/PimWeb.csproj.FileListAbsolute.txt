@@ -34,3 +34,41 @@ C:\Users\lucas\OneDrive\Desktop\PIM FINAL 2021\PimWeb\PimWeb\obj\Debug\netcoreap
 C:\Users\lucas\OneDrive\Desktop\PIM FINAL 2021\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\CriarPessoa.g.cshtml.cs
 C:\Users\lucas\OneDrive\Desktop\PIM FINAL 2021\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\AtualizarPessoa.g.cshtml.cs
 C:\Users\lucas\OneDrive\Desktop\PIM FINAL 2021\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\ExcluirPessoa.g.cshtml.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\bin\Debug\netcoreapp2.1\appsettings.json
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\bin\Debug\netcoreapp2.1\PimWeb.deps.json
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\bin\Debug\netcoreapp2.1\PimWeb.runtimeconfig.json
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\bin\Debug\netcoreapp2.1\PimWeb.runtimeconfig.dev.json
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\bin\Debug\netcoreapp2.1\PimWeb.dll
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\bin\Debug\netcoreapp2.1\PimWeb.pdb
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\bin\Debug\netcoreapp2.1\PimWeb.Views.dll
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\bin\Debug\netcoreapp2.1\PimWeb.Views.pdb
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.csproj.AssemblyReference.cache
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.AssemblyInfoInputs.cache
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.AssemblyInfo.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.csproj.CoreCompileInputs.cache
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.RazorAssemblyInfo.cache
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.RazorAssemblyInfo.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.TagHelpers.input.cache
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.TagHelpers.output.cache
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.RazorCoreGenerate.cache
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\AtualizarPessoa.cshtml.g.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\CriarPessoa.cshtml.g.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\ExcluirPessoa.cshtml.g.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\Index.cshtml.g.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.RazorTargetAssemblyInfo.cache
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.RazorTargetAssemblyInfo.cs
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.Views.pdb
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.dll
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.pdb
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.genruntimeconfig.cache
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\PimWeb.csproj.CopyComplete
+C:\workspace\proj-legalzin-web\PimWeb\PimWeb\obj\Debug\netcoreapp2.1\Razor\Views\Interesse\Index.cshtml.g.cs

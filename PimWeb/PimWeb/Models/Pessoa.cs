@@ -13,7 +13,5 @@ namespace PimWeb.Models
         public string  CPF { get; set; }
         public int Idade { get; set; }
         public string Telefone  { get; set; }
-
-
     }
 }

@@ -61,7 +61,7 @@ namespace PimWeb
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Pessoas}/{action=Index}/{id?}");
+                    template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }
